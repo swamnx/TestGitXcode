@@ -31,6 +31,8 @@ class ViewController: UIViewController {
     var td:Int = 444
     
     var testik:Int = 44
+    
+    var test:String = "sdfs"
 
 
 }
