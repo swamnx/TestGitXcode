@@ -28,6 +28,7 @@ class ViewController: UIViewController {
         a_5.append(44)
         return a_5
     }
+    var td:Int = 444
     
     var testik:Int = 44
 
